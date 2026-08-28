@@ -10,20 +10,21 @@ _______
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  No momento, estou focada nos meus estudos e no desenvolvimento das minhas habilidades em programação. Ainda não trabalho, mas estou buscando aprender cada vez mais e me preparar para oportunidades na área de tecnologia.
 </p>
 
 <p align="left">
- Linguagens: **Coloque as linguagens que você desenvolve.**
+ Linguagens: 
+ HTML, CSS, JavaScript e Python
 </p>
 
 <p align="left">
- Ferramentas: **Coloque as suas ferramentas de trabalho.**
+ Ferramentas: 
+ Visual Studio Code e GitHub
 </p>
 
 <p align="left">
- Aqui vai uma mensagem para entrar em contato com você: 
+ Se quiser conversar, trocar ideias sobre tecnologia ou conhecer mais sobre meus projetos, fique à vontade para entrar em contato comigo!
 </p>
 
 <p align="left">
